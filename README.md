@@ -37,6 +37,9 @@ After manifests have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add xc https://github.com/billxc/xc-scoop
+```
+
+```pwsh
 scoop install xc/<manifestname>
 ```
 
