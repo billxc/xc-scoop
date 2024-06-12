@@ -1,6 +1,6 @@
 {
     "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "1.13.6",
+    "version": "v1.13.7",
     "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS).",
     "homepage": "https://app.nextchat.dev/",
     "license": "https://github.com/sandboxie-plus/Sandboxie/blob/main/LICENSE",
@@ -8,7 +8,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.13.7/Sandboxie-Plus-x64-v1.13.7.exe",
-            "hash": "f9cdf987994ba99c4b7d3ebc73d8cbde2b6191edc2fdd9889e34d1628880a107",
+            "hash": "c929eaec30989246ad3945f122ad6a134f78a8da0ca06838fee026a3ba060e86",
             "extract_dir": "PFiles\\NextChat"
         }
     },
