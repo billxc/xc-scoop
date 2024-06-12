@@ -1,6 +1,6 @@
 {
     "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "2.12.3",
+    "version": "2.12.2",
     "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS).",
     "homepage": "https://app.nextchat.dev/",
     "license": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/blob/main/LICENSE",
