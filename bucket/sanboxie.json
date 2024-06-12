@@ -9,7 +9,6 @@
         "64bit": {
             "url": "https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.13.7/Sandboxie-Plus-x64-v1.13.7.exe",
             "hash": "c929eaec30989246ad3945f122ad6a134f78a8da0ca06838fee026a3ba060e86",
-            "extract_dir": "PFiles\\NextChat"
         }
     },
     "checkver": {
