@@ -1,14 +1,14 @@
 {
     "##": "This file is a template. Fill the blanks and add or remove fields as necessary.",
-    "version": "2.15.5",
+    "version": "2.15.6",
     "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS).",
     "homepage": "https://app.nextchat.dev/",
     "license": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/blob/main/LICENSE",
     "notes": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/download/v2.15.5/NextChat_2.15.5_x64_en-US.msi",
-            "hash": "c983f126198198353279a5ed56f39b2a6f87755f590f7ab0224a424956dc5099",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/download/v2.15.6/NextChat_2.15.6_x64_en-US.msi",
+            "hash": "55637280a582ca64c1177f260c9ba3f53322746350f2505eeea33fd076729333",
             "extract_dir": "PFiles\\NextChat"
         }
     },
