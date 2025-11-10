@@ -1,12 +1,12 @@
 {
-    "version": "dev-20251110-035356",
+    "version": "dev-20251110-041853",
     "description": "Git File Vault - A file vault with version control backed by Git",
     "homepage": "https://github.com/billxc/git-file-vault",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/billxc/git-file-vault/releases/download/dev-20251110-035356/gfv-windows-x86_64.exe",
-            "hash": "3fe5cbd1e996ca1946ff0790ca92e117276fe21d33a8c0283d6ffb1c873719c3",
+            "url": "https://github.com/billxc/git-file-vault/releases/download/dev-20251110-041853/gfv-windows-x86_64.exe",
+            "hash": "4725f537f1d50f968156712dabfb72b7e70c3085e52cbd2d2c66dd66ad428151",
             "bin": [
                 [
                     "gfv-windows-x86_64.exe",
@@ -15,8 +15,8 @@
             ]
         },
         "arm64": {
-            "url": "https://github.com/billxc/git-file-vault/releases/download/dev-20251110-035356/gfv-windows-arm64.exe",
-            "hash": "685fe700648dac9a95e524ea8675e5feb360aa11733e401a33cbfb061c1253aa",
+            "url": "https://github.com/billxc/git-file-vault/releases/download/dev-20251110-041853/gfv-windows-arm64.exe",
+            "hash": "5bdcd2e45842f29eac1c542980ce81b590e1aec4f2b47a2d4d56914edb827d4b",
             "bin": [
                 [
                     "gfv-windows-arm64.exe",
