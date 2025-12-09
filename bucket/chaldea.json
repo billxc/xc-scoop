@@ -1,0 +1,29 @@
+{
+    "version": "2.5.23",
+    "description": "A cross-platform tool for Fate/Grand Order. Chaldeas is a planner for materials, servants, events. Laplace is a battle simulator for team building.",
+    "homepage": "https://github.com/chaldea-center/chaldea",
+    "license": "AGPL-3.0-or-later",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/chaldea-center/chaldea/releases/download/v2.5.23/chaldea-2.5.23-windows.zip",
+            "hash": "68ffd0766764e2886879cc9be5ceb09e2a6bf053826800252d40a84d86fd952f"
+        }
+    },
+    "checkver": {
+        "github": "https://github.com/chaldea-center/chaldea",
+        "regex": "tag/v([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/chaldea-center/chaldea/releases/download/v$version/chaldea-$version-windows.zip"
+            }
+        }
+    },
+    "shortcuts": [
+        [
+            "chaldea.exe",
+            "Chaldea"
+        ]
+    ]
+}
